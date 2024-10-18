@@ -1,0 +1,17 @@
+# Flashcards de Redes de TI
+
+Este é um projeto de flashcards sobre redes de TI.
+
+## Como usar
+
+1. Baixe todos os arquivos do projeto.
+2. Abra o arquivo `index.html` em um navegador da web.
+3. Para uma melhor experiência, use um servidor local:
+   - No VS Code, instale a extensão "Live Server".
+   - Clique com o botão direito no `index.html` e selecione "Open with Live Server".
+
+## Estrutura do Projeto
+
+- `index.html`: O arquivo principal.
+- `styles.css`: O arquivo de estilo.
+- `script.js`: O arquivo JavaScript.
